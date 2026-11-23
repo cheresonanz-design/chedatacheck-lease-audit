@@ -1,0 +1,6 @@
+# CheDataCheck Lease (by VeriTakt Collective)
+> Wertsicherungsklauseln (VPI-Indexmiete), nicht-umlagefähige BetrKV-Positionen & Kündigungsfristen lokal prüfen.
+
+- App: https://cheresonanz-design.github.io/chedatacheck-lease-audit/
+- Offers: https://cheresonanz-design.github.io/chedatacheck-lease-audit/pro/
+- Legal: https://cheresonanz-design.github.io/chedatacheck-lease-audit/legal/
